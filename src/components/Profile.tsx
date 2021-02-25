@@ -3,9 +3,9 @@ import styles from '../styles/components/Profile.module.css'
 export function Profile() {
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/diego3g.png" alt="Foto de perfil github" />
+      <img src="https://github.com/andreyoli.png" alt="Foto de perfil github" />
       <div>
-        <strong>Diego Fernandes</strong>
+        <strong>Andrey Oliveira</strong>
         <p>
           <img src="icons/level.svg" alt="Level" />
           Level 1
